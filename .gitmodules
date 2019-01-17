@@ -1,0 +1,3 @@
+[submodule "packages/Viper-Platform/core"]
+	path = packages/Viper-Platform/core
+	url = https://github.com/mrucelum/core.git
